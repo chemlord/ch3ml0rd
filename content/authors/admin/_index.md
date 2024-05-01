@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Biochemistry/Molecular Bio Student/Teaching Assistant
+role: Biochemistry/Molecular Bio Student/Future Teaching Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
