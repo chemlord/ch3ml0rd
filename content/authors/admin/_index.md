@@ -25,7 +25,7 @@ organizations:
     url: https://www.trentu.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Carbonyl Chemistry
+bio: My research interests include Carbonyl Chemistry and Molecular Biology
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
